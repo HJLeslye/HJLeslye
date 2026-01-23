@@ -1,8 +1,8 @@
-name: generate pacman animation
+name: generate animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *" # Se ejecuta cada 24 horas
+    - cron: "0 */24 * * *" 
   workflow_dispatch:
   push:
     branches:
@@ -16,18 +16,18 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Genera la animación con colores estilo Pac-Man
-      - name: generate github-contribution-grid-pacman.svg
+      # Genera la animación con estilo Pac-Man y tus colores
+      - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-pacman.svg
-            dist/github-contribution-grid-pacman-dark.svg?palette=github-dark&color_snake=#FFFF00&color_dots=#161b22,#003366,#004080,#0059b3,#0073e6
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%239d02d7&color_dots=%23051923,%23005f73,%230a9396,%2394d2bd,%23e9d8a6
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      - name: push github-contribution-grid-pacman.svg to the output branch
+      - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
