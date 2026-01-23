@@ -26,7 +26,6 @@ I am an **IT and Communications Engineering** student, focused on **Backend Deve
 
 ### 🚀 Tech Stack (Skills)
 
-
 <p align="left">
   <img src="https://img.shields.io/badge/JAVA-%230D1117.svg?style=for-the-badge&logo=java&logoColor=%23ED8B00&color=0D1117" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-%230D1117.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=0D1117" />
