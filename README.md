@@ -55,8 +55,13 @@ I am an **IT and Communications Engineering** student, focused on **Backend Deve
   </a>
   <a href="https://github.com/HJLeslye/Power-Window-Simulator">
     <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=HJLeslye&repo=Power-Window-Simulator&theme=tokyonight&border_color=7928CA&title_color=00f2fe&show_owner=false" />
-  </a>
 </p>
+    <br>
+<p align="center">
+  </a>
+    <a href="https://github.com/HJLeslye/Smart-BCM-Automotive-Window-Control">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=HJLeslye&repo=Smart-BCM-Automotive-Window-Control&theme=tokyonight&border_color=7928CA&title_color=00f2fe&show_owner=false" />
+  </a>
 
 ### 📊 Coding Activity Graph
 <p align="center">
