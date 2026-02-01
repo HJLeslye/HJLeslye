@@ -65,7 +65,8 @@ I am an **IT and Communications Engineering** student, focused on **Backend Deve
 
 ---
 
-### 📫 Contact
-<p align="left">
-<a href="https://www.linkedin.com/in/leslye-hernández-jiménez-5559403a6" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+## Contact Details
+> **Leslye Hernandez Jimenez**
+> 
+> **LinkedIn**: [View Profile](https://www.linkedin.com/in/leslye-hernández-jiménez-5559403a6)
+> **Email**: hdezj.leslye@gmail.com
