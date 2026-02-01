@@ -18,8 +18,8 @@ I am an **IT and Communications Engineering** student, focused on **Backend Deve
 
 ### 📊 GitHub Stats
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HJLeslye&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7928CA&title_color=00f2fe" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HJLeslye&layout=donut&theme=tokyonight&border_color=7928CA&title_color=00f2fe" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HJLeslye&show_icons=true&theme=tokyonight&include_all_commits=true&border_color=7928CA&title_color=00f2fe" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HJLeslye&layout=donut&theme=tokyonight&border_color=7928CA&title_color=00f2fe" />
 </p>
 
 ---
@@ -51,17 +51,18 @@ I am an **IT and Communications Engineering** student, focused on **Backend Deve
 
 <p align="center">
   <a href="https://github.com/HJLeslye/Security-data-analyzer">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=HJLeslye&repo=Security-data-analyzer&theme=tokyonight&border_color=7928CA&title_color=00f2fe&show_owner=false" />
+    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=HJLeslye&repo=Security-data-analyzer&theme=tokyonight&border_color=7928CA&title_color=00f2fe&show_owner=false" />
   </a>
   <a href="https://github.com/HJLeslye/Power-Window-Simulator">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=HJLeslye&repo=Power-Window-Simulator&theme=tokyonight&border_color=7928CA&title_color=00f2fe&show_owner=false" />
+    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=HJLeslye&repo=Power-Window-Simulator&theme=tokyonight&border_color=7928CA&title_color=00f2fe&show_owner=false" />
+  </a>
 </p>
-    <br>
+
 <p align="center">
+  <a href="https://github.com/HJLeslye/Smart-BCM-Automotive-Window-Control">
+    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=HJLeslye&repo=Smart-BCM-Automotive-Window-Control&theme=tokyonight&border_color=7928CA&title_color=00f2fe&show_owner=false" />
   </a>
-    <a href="https://github.com/HJLeslye/Smart-BCM-Automotive-Window-Control">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=HJLeslye&repo=Smart-BCM-Automotive-Window-Control&theme=tokyonight&border_color=7928CA&title_color=00f2fe&show_owner=false" />
-  </a>
+</p>
 
 ### 📊 Coding Activity Graph
 <p align="center">
