@@ -1,78 +1,76 @@
-# Hi! I'm Leslye 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/HJLeslye.png" width="130" style="border-radius: 50%; border: 3px solid #7928CA;" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7b61ff&height=200&section=header&text=HJLeslye&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Banner" />
 
-### 👤 About Me
-I am an **IT and Communications Engineering** student, focused on **Backend Development**. I am currently working on a simulator in **C** and a management system in **Java** with **PostgreSQL**.
+</div>
+
+## 👋 ¡Hola! Soy Leslye
+### **Ingeniera en Tecnologías de la Información y Comunicaciones**
+Estudiante apasionada por la **ingeniería automotriz** y el desarrollo de sistemas embebidos. En constante aprendizaje para crear tecnología eficiente que conecte el hardware con el mundo real.
 
 ---
 
-### 🐍 GitHub Snake Game
+## 🐍 GitHub Snake Game
 <p align="center">
   <img src="https://raw.githubusercontent.com/HJLeslye/HJLeslye/output/github-contribution-grid-snake-dark.svg" alt="Snake Game">
 </p>
 
----
+## 📊 Estadísticas
+<table align="center">
+  <tr>
+    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HJLeslye&theme=tokyonight" /></td>
+    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HJLeslye&theme=tokyonight" /></td>
+  </tr>
+</table>
 
-### 📊 GitHub Stats
+## 🛠️ Herramientas
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HJLeslye&show_icons=true&theme=tokyonight&include_all_commits=true&border_color=7928CA&title_color=00f2fe" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HJLeslye&layout=donut&theme=tokyonight&border_color=7928CA&title_color=00f2fe" />
+  <img src="https://img.shields.io/badge/-C-3d5afe?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-9c27b0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00acc1?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
----
+## 🚀 Proyectos de Ingeniería
 
-### 🚀 Tech Stack (Skills)
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 Smart-BCM</h3>
+      <p>Prototipo automotriz con <b>ESP32</b> para diagnóstico y control de carrocería.</p>
+      <img src="https://img.shields.io/badge/Tecnología-C++%20%7C%20Firmware-7b61ff?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Power-Window-Simulator</h3>
+      <p>Simulación mecatrónica en <b>C</b> con seguridad Anti-Pinch.</p>
+      <img src="https://img.shields.io/badge/Protocolo-Seguridad%20Crítica-00acc1?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🆔 ID-Check System</h3>
+      <p>Gestión de identidades y bases de datos para seguridad lógica.</p>
+      <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Databases-9c27b0?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Mathzy App</h3>
+      <p>App móvil para el fortalecimiento de habilidades aritméticas.</p>
+      <img src="https://img.shields.io/badge/Estado-Desarrollo-00acc1?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JAVA-%230D1117.svg?style=for-the-badge&logo=java&logoColor=%23ED8B00&color=0D1117" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-%230D1117.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=0D1117" />
-  <img src="https://img.shields.io/badge/PHP-%230D1117.svg?style=for-the-badge&logo=php&logoColor=%23777BB4&color=0D1117" />
-  <img src="https://img.shields.io/badge/C-%230D1117.svg?style=for-the-badge&logo=c&logoColor=%2300599C&color=0D1117" />
-  <img src="https://img.shields.io/badge/C%23-%230D1117.svg?style=for-the-badge&logo=c-sharp&logoColor=%23239120&color=0D1117" />
-  <img src="https://img.shields.io/badge/C%2B%2B-%230D1117.svg?style=for-the-badge&logo=cplusplus&logoColor=%2300599C&color=0D1117" />
-  <img src="https://img.shields.io/badge/HTML5-%230D1117.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26&color=0D1117" />
-  <img src="https://img.shields.io/badge/CSS3-%230D1117.svg?style=for-the-badge&logo=css3&logoColor=%231572B6&color=0D1117" />
-  <img src="https://img.shields.io/badge/JAKARTA_EE-%230D1117.svg?style=for-the-badge&logo=jakartaee&logoColor=%230073B1&color=0D1117" />
-  <img src="https://img.shields.io/badge/POSTGRESQL-%230D1117.svg?style=for-the-badge&logo=postgresql&logoColor=%23336791&color=0D1117" />
-  <img src="https://img.shields.io/badge/MYSQL-%230D1117.svg?style=for-the-badge&logo=mysql&logoColor=%234479A1&color=0D1117" />
-  <img src="https://img.shields.io/badge/MARIADB-%230D1117.svg?style=for-the-badge&logo=mariadb&logoColor=%23003545&color=0D1117" />
-  <img src="https://img.shields.io/badge/FIGMA-%230D1117.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E&color=0D1117" />
-  <img src="https://img.shields.io/badge/ILLUSTRATOR-%230D1117.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=%23FF9A00&color=0D1117" />
-  <img src="https://img.shields.io/badge/PHOTOSHOP-%230D1117.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=%2331A8FF&color=0D1117" />
-  <img src="https://img.shields.io/badge/BLENDER-%230D1117.svg?style=for-the-badge&logo=blender&logoColor=%23F5792A&color=0D1117" />
-  <img src="https://img.shields.io/badge/DOCKER-%230D1117.svg?style=for-the-badge&logo=docker&logoColor=%232496ED&color=0D1117" />
-  <img src="https://img.shields.io/badge/TIA_PORTAL-%230D1117.svg?style=for-the-badge&logo=siemens&logoColor=%23009999&color=0D1117" />
-</p>
-
-### 📂 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/HJLeslye/Security-data-analyzer">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=HJLeslye&repo=Security-data-analyzer&theme=tokyonight&border_color=7928CA&title_color=00f2fe&show_owner=false" />
-  </a>
-  <a href="https://github.com/HJLeslye/Power-Window-Simulator">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=HJLeslye&repo=Power-Window-Simulator&theme=tokyonight&border_color=7928CA&title_color=00f2fe&show_owner=false" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/HJLeslye/Smart-BCM-Automotive-Window-Control">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=HJLeslye&repo=Smart-BCM-Automotive-Window-Control&theme=tokyonight&border_color=7928CA&title_color=00f2fe&show_owner=false" />
-  </a>
-</p>
-
-### 📊 Coding Activity Graph
+## 📈 Gráfica de Actividad
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HJLeslye&bg_color=0D1117&color=00f2fe&line=7928CA&point=00f2fe&area=true&hide_border=true&area_color=7928CA&custom_title=Coding%20Activity&theme=react&type=bar" width="100%" />
 </p>
 
 ---
 
-## Contact Details
+## 📩 Contacto
 > **Leslye Hernandez Jimenez**
 > 
 > **LinkedIn**: [View Profile](https://www.linkedin.com/in/leslye-hernández-jiménez-5559403a6)
-> **Email**: hdezj.leslye@gmail.com
+> **Email**: [hdezj.leslye@gmail.com](mailto:hdezj.leslye@gmail.com)
