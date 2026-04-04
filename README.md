@@ -16,16 +16,18 @@
 
 ## 📁 Featured Projects
 
-* **⚡ EduTrack-API:** Robust RESTful API for School Management engineered with **Spring Boot 3**, **Java 17**, and Layered Architecture. Implements full CRUD operations and integrated **H2 database** handling.
-* **⚙️ SysPulse-CLI:** High-performance system monitoring utility for Windows developed in **C**. Features real-time CPU/RAM telemetry, utilization logging, and a modular **Win32 API** architecture.
-* **🚗 Smart-BCM-Automotive:** Integrated **ESP32** prototyping system for automotive body control. Implements diagnostic algorithms and climate-responsive actuator control for power window systems using **C++**.
-* **🛡️ Security-Analyzer:** Advanced cybersecurity utility designed to audit, analyze, and report on system configurations and identify potential vulnerabilities using active scanning principles.
+* **⚡ EduTrack-API** | `Java` `Spring Boot`
+  * School Management RESTful API with layered architecture.
+* **⚙️ SysPulse-CLI** | `C` `Win32 API`
+  * Real-time Windows system monitoring and CPU/RAM telemetry.
+* **🚗 Smart-BCM** | `C++` `ESP32`
+  * Automotive body control system for power windows and diagnostics.
+* **🛡️ Security-Analyzer** | `Cybersecurity`
+  * Vulnerability auditing utility and system configuration reporter.
 
 ---
 
 ## 🛠️ Tools & Technologies
-
-### 🖥️ Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Badge" />
@@ -37,7 +39,6 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge" />
 </p>
 
-### 🗄️ Databases
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" />
@@ -45,7 +46,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge" />
 </p>
 
-### 🔧 Development & Ops
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" />
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian Badge" />
@@ -53,7 +53,6 @@
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio Badge" />
 </p>
   
-### 🎨 Design & Others
 <p align="center">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop Badge" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator Badge" />
