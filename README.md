@@ -79,7 +79,7 @@
 ---
 
 ## Contact Details
-> **Leslye Hernandez Jimenez**
+> **Leslye Hernández Jiménez**
 > 
 > **LinkedIn**: [View Profile](https://www.linkedin.com/in/leslye-hernandez-jimenez)
 > **Email**: hdezj.leslye@gmail.com
