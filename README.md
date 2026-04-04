@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b61ff&height=150&section=header&text=HJLeslye&fontSize=60&animation=fadeIn&fontAlignY=35" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D5FA9&height=180&section=header&text=HJLeslye&fontSize=80&animation=fadeIn&fontAlignY=35" alt="Banner" />
 
-  ## 🚀 Ingeniera en Tecnologías de la Información y Comunicaciones
-  *Apasionada por la ingeniería automotriz y el desarrollo de sistemas embebidos.*
+  ## 🚀 IT & Communications Engineering Student
+  *Embedded Systems | Cybersecurity | Web Dev | Electronics | Databases*
 </div>
 
 ---
@@ -14,26 +14,55 @@
 
 ---
 
-### 📂 Proyectos Destacados
+## 📁 Featured Projects
 
-* **🚗 Smart-BCM-Automotive** *Prototipo de BCM con ESP32 para diagnóstico y control de ventanas.* `C++` | `Firmware` | `Embedded`
-
-* **🛡️ Power-Window-Simulator** *Simulación en C con protocolo Anti-Pinch para sistemas críticos.* `C` | `Mechatronics` | `Safety`
-
-* **🔍 Security-Analyzer** *Herramienta para análisis de vulnerabilidades y seguridad.* `HTML` | `Security`
-
-* **🎮 Mobile-Device-Evolution** *Línea del tiempo interactiva estilo Arcade.* `HTML` | `TIC`
+* **⚡ EduTrack-API:** Robust RESTful API for School Management engineered with **Spring Boot 3**, **Java 17**, and Layered Architecture. Implements full CRUD operations and integrated **H2 database** handling.
+* **⚙️ SysPulse-CLI:** High-performance system monitoring utility for Windows developed in **C**. Features real-time CPU/RAM telemetry, utilization logging, and a modular **Win32 API** architecture.
+* **🚗 Smart-BCM-Automotive:** Integrated **ESP32** prototyping system for automotive body control. Implements diagnostic algorithms and climate-responsive actuator control for power window systems using **C++**.
+* **🛡️ Security-Analyzer:** Advanced cybersecurity utility designed to audit, analyze, and report on system configurations and identify potential vulnerabilities using active scanning principles.
 
 ---
 
-### 🛠️ Herramientas
+## 🛠️ Tools & Technologies
+
+### 🖥️ Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,mysql,html,github,vscode,linux" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Badge" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB Badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge" />
+</p>
+
+### 🔧 Development & Ops
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian Badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio Badge" />
+</p>
+  
+### 🎨 Design & Others
+<p align="center">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop Badge" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator Badge" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender Badge" />
 </p>
 
 ---
 
-### 📊 Estadísticas
+### 📊 GitHub Stats
 <table align="center">
   <tr>
     <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HJLeslye&theme=tokyonight" /></td>
@@ -58,5 +87,5 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b61ff&height=80&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D5FA9&height=80&section=footer" alt="Footer" />
 </div>
